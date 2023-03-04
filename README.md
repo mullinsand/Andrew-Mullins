@@ -5,7 +5,7 @@
 ## About Me
 - Life long learner with a passion for a more sustainable future
 - Amateur engineer always looking to optimize the world around me
-- Collaborator who prioritizes relationships to get things done
+- Collaborator who prioritizes relationships to make the journey as enjoyable as the destination
 - Goofball ready to participate in some shenanigans
 ## Coding Languages
 - Ruby on Rails
